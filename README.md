@@ -1,2 +1,2 @@
 Live link is at: 
-https://dantolu8601.github.io/Huddle-header-design/
+https://dantoluTechantonproject2.netlify.app/
